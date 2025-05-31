@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 <!--
-**AmenBuilds/AmenBuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AmenBuilds/AmenBuilds** is a ✨ _special_ ✨ repository because its `README![Gemini_Generated_Image_d6lu1yd6lu1yd6lu](https://github.com/user-attachments/assets/142de299-6460-4902-9e4e-3f4fc9e0f3f8)
+.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
