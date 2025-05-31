@@ -25,7 +25,7 @@
 [![](https://visitcount.itsvg.in/api?id=AmenBuilds&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-(leg Day Enthusiast):
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJtbjV0YmtvNWg4cWVwZTc2MXB4Y3g5bXE0MGVqa24yY3c3YmozZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JHmXZW3xYaDGE/giphy.gif" width="250" display-flex="center"/>
+(Legs Day Slacker):
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJtbjV0YmtvNWg4cWVwZTc2MXB4Y3g5bXE0MGVqa24yY3c3YmozZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JHmXZW3xYaDGE/giphy.gif" width="250"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
