@@ -4,8 +4,8 @@
 
  Name: Amen Allah Labbene <br>💻 Role: Still Student — Software Engineering   <br>💡 Interests:  Full-stack development, AI tools, Making Money, Sports<br> Currently learning: How to build AI agents  <br>🔨 Building: An analytical AI Agent  <br> Fun fact: I once forgot to save a file for 2 hours and kept wondering why nothing worked xD<br>📫 Contact: jkggamen@gmail.com/Instagram: amenallah.Labbene
 
-![Coding]([https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhtcTR5OGViMGJsZTl3MHJ0ZHM2M2l2dTl6Y3R1dXYwZ3RxcmJjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FPKLENW3xIX95lK/giphy.gif
-))
+
+<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhtcTR5OGViMGJsZTl3MHJ0ZHM2M2l2dTl6Y3R1dXYwZ3RxcmJjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FPKLENW3xIX95lK/giphy.gif" width="400" />
 
 
 ## 🌐 Socials:
