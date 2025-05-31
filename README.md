@@ -1,4 +1,5 @@
-![Gemini_Generated_Image_d6lu20d6lu20d6lu](https://github.com/user-attachments/assets/8cfeb350-29df-4df7-9d6d-d3e4a20cc2c7)
+![Slide 16_9 - 1](https://github.com/user-attachments/assets/108409dc-7504-4e60-8a79-e1d41367cb23)
+
 
 # 💫 About Me:
 
