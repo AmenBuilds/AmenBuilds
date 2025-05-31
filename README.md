@@ -25,7 +25,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AmenBuilds&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313mjqcnpiymyfx364dtwe3z2hd4)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313mjqcnpiymyfx364dtwe3z2hd4&unique={true|1|on|yes})
 
 
 (Legs Day Slacker):
